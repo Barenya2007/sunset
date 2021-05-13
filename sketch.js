@@ -52,7 +52,7 @@ async function getBackgroundImg(){
     // add conditions to change the background images from sunrise to sunset
 
     if(hour>=04 && hour<=06){
-        bg= "sunrise1.png";
+        bg= "sunrise1.png"; 
 
     }
     else if(hour>=06 && hour<=08){
